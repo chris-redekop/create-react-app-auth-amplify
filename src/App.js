@@ -23,6 +23,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <a href="https://cr01.chat.cr-orbits.blue">Chat</a>
         </header>
       </div>
     );
